@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b5cd6a7e-e894-4b22-b5f7-6b2e49ca96b3" name="scram" url="http://31.170.165.171">
+        <fileTransfer host="31.170.165.171" port="21" password="dfd0dfcbdfdbdf9bdf98df99" username="u662522078">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
